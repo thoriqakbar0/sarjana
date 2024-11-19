@@ -19,3 +19,4 @@ __pycache__/
 ***/__pycache__
 /pytest.log
 .vscode
+.venv
